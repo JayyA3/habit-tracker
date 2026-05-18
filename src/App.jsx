@@ -455,4 +455,4 @@ export default function App() {
       fontSize: "12px",
       pointerEvents: "none",
       whiteSpace: "nowrap",
-      boxShadow: "0 10px 15px -3px rgba(0, 0, 0, 0
+      boxShadow: "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
